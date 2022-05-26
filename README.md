@@ -1,8 +1,8 @@
+<div align=center>
+   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=chi%20World&fontSize=90&&fontColor=d6ace6&animation=twinkling)
 
-<div align=center>
-# Hi there 👋    
-
+# Hi there 👋
    
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiWorld&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,5 +16,6 @@
    
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/><img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=Subversion&logoColor=white"/>
    
-</
+   
 ![footer](https://capsule-render.vercel.app/api?section=footer)
+</div>
