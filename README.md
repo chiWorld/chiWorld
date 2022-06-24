@@ -30,16 +30,29 @@ GA Project 청약파트 개발
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-
-(Java, Oracle, Vue3, JS, TS, SVN, Visual Studio, Eclipse, SpringBoot)   
+   
       
 22.04.18 ~ 22.05.17   
 GA ERP 이벤트 페이지 개발   
-(Java, jQuery, KendoUI, Oracle, MariaDB, Tibero, SVN, Eclipse, DBBear)   
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/KendoUI-64BC4B?style=flat-square&logo=Bookmeter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBeaver-000000?style=flat-square&logo=AngelList&logoColor=white"/>
+<img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=Subversion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+   
    
 22.06.02 ~ ing   
 SWIFT ISO20022 대응 개발   
-(Java, MDD, xFrame5, JS, Oracle, eCAMSb)   
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/MDD-000000?style=flat-square&logo=AngelList&logoColor=white"/>
+<img src="https://img.shields.io/badge/xFrame5-000000?style=flat-square&logo=AngelList&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/eCAMS-000000?style=flat-square&logo=AngelList&logoColor=white"/>  
+   
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 </div>
