@@ -15,7 +15,13 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
    
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/><img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=Subversion&logoColor=white"/>
+      
    
    
+# 🛠️ Project 🛠️   
+21.11.01 ~ 22.03.31 GA 가입설계 Project 청약파트 개발 (Java, Oracle, Vue3, JS, TS, SVN, Visual Studio, Eclipse, SpringBoot)   
+22.04.18 ~ 22.05.17 GA ERP 이벤트 페이지 개발 (Java, jQuery, KendoUI, Oracle, MariaDB, Tibero, SVN, Eclipse, DBBear)   
+22.06.02 ~ ing      SWIFT ISO20022 대응 개발 (Java, MDD, xFrame5, JS, Oracle, eCAMSb)   
+
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 </div>
