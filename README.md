@@ -20,7 +20,7 @@
    
       
    
-# 🛠️ Project 🛠️   
+# 🐥 Project 🐥   
 21.11.01 ~ 22.03.31   
 GA Project 청약파트 개발   
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
