@@ -19,8 +19,18 @@
    
    
 # 🛠️ Project 🛠️   
-21.11.01 ~ 22.03.31    
-GA 가입설계 Project 청약파트 개발 
+21.11.01 ~ 22.03.31   
+GA Project 청약파트 개발   
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=Subversion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+
 (Java, Oracle, Vue3, JS, TS, SVN, Visual Studio, Eclipse, SpringBoot)   
       
 22.04.18 ~ 22.05.17   
