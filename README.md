@@ -31,7 +31,6 @@ GA 청약파트 개발
 <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=Subversion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
    
       
 22.04.18 ~ 22.05.17   
@@ -41,7 +40,6 @@ GA 프로모션 개발
 <img src="https://img.shields.io/badge/KendoUI-64BC4B?style=flat-square&logo=Bookmeter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/DBeaver-000000?style=flat-square&logo=AngelList&logoColor=white"/>
 <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=Subversion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
    
