@@ -47,11 +47,11 @@ GA 프로모션 개발
 22.06.02 ~ ing   
 ISO20022 대응개발   
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/MDD-000000?style=flat-square&logo=AngelList&logoColor=white"/>
-<img src="https://img.shields.io/badge/xFrame5-000000?style=flat-square&logo=AngelList&logoColor=white"/>
+<img src="https://img.shields.io/badge/MDD-A50034?style=flat-square&logo=LG&logoColor=white"/>
+<img src="https://img.shields.io/badge/xFrame5-ED125F?style=flat-square&logo=XState&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/eCAMS-000000?style=flat-square&logo=AngelList&logoColor=white"/>  
+<img src="https://img.shields.io/badge/eCAMS-F28834?style=flat-square&logo=AngelList&logoColor=white"/>  
    
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
