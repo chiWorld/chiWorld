@@ -22,7 +22,6 @@
    
 # 🐥 Project 🐥   
 21.11.01 ~ 22.03.31   
-GA 청약파트 개발   
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -34,7 +33,6 @@ GA 청약파트 개발
    
       
 22.04.18 ~ 22.05.17   
-GA 프로모션 개발   
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/KendoUI-64BC4B?style=flat-square&logo=Bookmeter&logoColor=white"/>
@@ -45,7 +43,6 @@ GA 프로모션 개발
    
    
 22.06.02 ~ ing   
-ISO20022 대응개발   
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/MDD-A50034?style=flat-square&logo=LG&logoColor=white"/>
 <img src="https://img.shields.io/badge/xFrame5-ED125F?style=flat-square&logo=XState&logoColor=white"/>
